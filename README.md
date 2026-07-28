@@ -20,9 +20,9 @@
 <!-- ==================== CONTRIBUTION SNAKE ANIMATION ==================== -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BerkayHalicioglu/BerkayHalicioglu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BerkayHalicioglu/BerkayHalicioglu/output/github-snake.svg" />
-    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/BerkayHalicioglu/BerkayHalicioglu/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BerkayHalicioglu/BerkayHalicioglu/output/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BerkayHalicioglu/BerkayHalicioglu/output/github-snake.svg?v=1" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/BerkayHalicioglu/BerkayHalicioglu/output/github-snake-dark.svg?v=1" width="100%" />
   </picture>
 </div>
 <br/>
